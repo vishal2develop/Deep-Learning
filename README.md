@@ -1,7 +1,6 @@
 # Examples of using Deep Learning
 
-***Will be updating this repository regularly***
-
-**Projects till date:**
+**Projects **
 
 1. **Fake Bank Note Detection** - Classification Problem
+2. **Facial Expression Recognition** - Classification Problem
