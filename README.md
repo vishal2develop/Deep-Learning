@@ -6,3 +6,4 @@
 2. **Facial Expression Recognition** - Image Classification Problem
 3. **Plant Species Recognition** - Image Classification on Mobile
 4. **Chest X-Ray Classification** - Image Classification using Pytorch
+5. **AI-Authenticator** - Anomaly Detection Model
